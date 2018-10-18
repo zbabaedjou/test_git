@@ -1,5 +1,4 @@
 
 public class toto {
-	int a;
-
+	int a=0;
 }
